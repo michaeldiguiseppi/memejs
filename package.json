@@ -1,0 +1,17 @@
+{
+  "name": "meme.js",
+  "author": "Michael DiGuiseppi",
+  "version": "1.0.0",
+  "description": "A package that turns any string into a sassy spongebob string.",
+  "main": "meme.js",
+  "bin": {
+    "meme": "./meme.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^6.0.0"
+  }
+}
