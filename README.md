@@ -4,7 +4,7 @@
 
 ### Installation
 ```
-  npm install -g meme
+  npm install -g mock-meme
 ```
 
 ### Usage
