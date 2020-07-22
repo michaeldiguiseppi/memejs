@@ -1,7 +1,7 @@
 {
   "name": "mock-meme",
   "author": "Michael DiGuiseppi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that turns any string into a sassy spongebob string.",
   "homepage": "https://github.com/michaeldiguiseppi/memejs#readme",
   "main": "meme.js",
